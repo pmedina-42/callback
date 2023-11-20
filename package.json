@@ -1,0 +1,13 @@
+{
+  "name": "callback-app",
+  "version": "1.0.0",
+  "description": "Node App with Express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node callback.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
+
